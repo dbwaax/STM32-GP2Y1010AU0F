@@ -9,3 +9,7 @@ LED-GND位红外灯的地端，与VSS相接即可。
 	VSS接电源地即可。    
 
 
+    
+   
+        
+![image](https://github.com/dbwaax/STM32-GP2Y1010AU0F/blob/main/23.jpg)
